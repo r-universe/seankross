@@ -1,0 +1,18 @@
+[
+  {
+    "package": "minimap",
+    "oncran": true
+  },
+  {
+    "package": "postcards",
+    "oncran": true
+  },
+  {
+    "package": "tidydatatutor",
+    "oncran": true
+  },
+  {
+    "package": "twilio",
+    "oncran": true
+  }
+]
