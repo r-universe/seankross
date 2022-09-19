@@ -1,9 +1,5 @@
 [
   {
-    "package": "minimap",
-    "oncran": true
-  },
-  {
     "package": "postcards",
     "oncran": true
   },
