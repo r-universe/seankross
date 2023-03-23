@@ -13,6 +13,16 @@
 	url = https://github.com/seankross/postcards
 	shallow = true
 	registered = true
+[submodule "swirl"]
+	path = swirl
+	url = https://github.com/cran/swirl
+	shallow = true
+	registered = true
+[submodule "swirlify"]
+	path = swirlify
+	url = https://github.com/cran/swirlify
+	shallow = true
+	registered = true
 [submodule "tidydatatutor"]
 	path = tidydatatutor
 	url = https://github.com/seankross/tidydatatutor
