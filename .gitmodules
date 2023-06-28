@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "minimap"]
 	path = minimap
 	url = https://github.com/seankross/minimap
-	shallow = true
-	registered = true
 [submodule "postcards"]
 	path = postcards
 	url = https://github.com/seankross/postcards
-	shallow = true
-	registered = true
 [submodule "swirl"]
 	path = swirl
 	url = https://github.com/cran/swirl
-	shallow = true
-	registered = true
 [submodule "swirlify"]
 	path = swirlify
 	url = https://github.com/cran/swirlify
-	shallow = true
-	registered = true
 [submodule "tidydatatutor"]
 	path = tidydatatutor
 	url = https://github.com/seankross/tidydatatutor
-	shallow = true
-	registered = true
 [submodule "twilio"]
 	path = twilio
 	url = https://github.com/seankross/twilio
-	shallow = true
-	registered = true
